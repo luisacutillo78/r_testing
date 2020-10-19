@@ -1,3 +1,3 @@
-Trying to use R in google collab
+This is a repository of R notebooks that makes use of the Google Colabatory to provide free compute
 
-* Click on this link and away you go https://colab.research.google.com/github/luisacutillo78/r_testing/blob/master/my_first_R.ipynb
+* An example plot https://colab.research.google.com/github/luisacutillo78/r_testing/blob/master/my_first_R.ipynb
